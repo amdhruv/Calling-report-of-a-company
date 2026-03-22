@@ -61,7 +61,7 @@ This project presents an interactive Call Center Dashboard built in Microsoft Ex
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](https://github.com/amdhruv/Calling-report-of-a-company/blob/main/Screenshot%202026-03-22%20122619.png)
 
 ---
 
